@@ -12,9 +12,10 @@ For this we'll use the free api at [Recipe Puppy](http://www.recipepuppy.com/). 
 There are some basic mocks in `/mocks` -- showing the poor artistry of the random engineer assigned to the task.
 
  - Fork this project.
- - **Complete the items below using any front end tech you'd like.**
+ - **Complete the items below using any front end tech you'd like.** (( This must be entirely in the front end. Server side languages or platforms will be immediately disqualified ))
  - Submit a Pull Request with your changes.
  - Create an issue if you have any questions.
+ 
 
 ### What should it do?
  - Provide search functionality to query the api for recipes.
